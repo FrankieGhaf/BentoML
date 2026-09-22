@@ -1,0 +1,14 @@
+{
+  "owner": "FrankieGhaf",
+  "repositories": [
+    {
+      "source": "bentoml/BentoML",
+      "name": "BentoML",
+      "branch": "main",
+      "stars": 8855,
+      "license": "Apache-2.0",
+      "description": "The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more!",
+      "origin": "git@github-frankie-bentoml:FrankieGhaf/BentoML.git"
+    }
+  ]
+}
